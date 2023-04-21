@@ -7,7 +7,7 @@ The game interface is created using tkinter buttons, with each button representi
 
 In addition to human players, the game also has a simple computer player that makes `random` moves on the board.
 
-## Getting Started
+## Getting Started:
 To use this program, you will need to have Python 3 installed on your computer. You can download Python from the official Python website [(https://www.python.org)].
 
 Once you have Python installed, you can download the `tictactoe.py` file from this repository and run it using the command `python tictactoe.py`.
