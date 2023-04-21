@@ -29,8 +29,5 @@ This game was developed by `Sravani Yepuri`.
 
 ## Dependencies:
 This code requires the following Python libraries:
-`numpy`
-`tkinter`
-
-## Disclaimer:
-This code is provided as-is, without any warranty or guarantee of any kind. The author is not responsible for any damages or losses that may result from its use.
+- `numpy`
+- `tkinter`
