@@ -25,7 +25,7 @@ Contributions are welcome and encouraged. If you find a bug or have a suggestion
 If you have any questions or concerns, please contact [sravaniyepuri6@gmail.com].
 
 ## Acknowledgements:
-This game was developed by [Sravani Yepuri].
+This game was developed by `Sravani Yepuri`.
 
 ## Dependencies:
 This code requires the following Python libraries:
